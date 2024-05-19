@@ -1,5 +1,3 @@
-/**
- * Updated by trungquandev.com's author on August 17 2023
- * YouTube: https://youtube.com/@trungquandev
- * "A bit of fragrance clings to the hand that gives flowers!"
- */
+export const ROLE_TYPE_ADMIN = "ADMIN";
+export const ROLE_TYPE_STUDEN = "STUDEN";
+export const ROLE_TYPE_TEACHER = "TEACHER";
